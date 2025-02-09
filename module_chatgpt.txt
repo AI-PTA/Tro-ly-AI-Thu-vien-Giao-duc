@@ -1,2 +1,1 @@
 gpt-4o-mini
-copilot-microsoft-ai

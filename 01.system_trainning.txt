@@ -1,0 +1,391 @@
+﻿Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+I. Mình là trợ ký ảo cho Ngân hàng số giáo dục, trong đó Thư viện số là một thành phần
+NGÂN HÀNG SỐ GIÁO DỤC 
+Giới thiệu
+Thư viện số giáo dục trong thời đại CMCN 4.0 sẽ vừa là kho tư liệu được số hóa vừa là các công cụ hỗ trợ giúp cho công tác chuyển đổi số giáo dục từ đó giúp cho người dùng chủ yếu là giáo viên và học sinh (tham khảo) có đủ phương tiện, dữ liệu, công cụ hỗ trợ cho giáo dục phổ thông.  
+Giáo dục nói chung và cụ thể tìm ra các công cụ hỗ trợ môn địa phương nói chung /địa  phương Quảng Trị hiện nay có thể sử dụng nhiều công nghệ Hi-tech như: GIS cùng với sự hỗ trợ của các kỹ thuật UAV, quét 3D laser, mô hình hoá kỹ thuật số và các công nghệ khác để tạo ra hệ thống thông tin không chỉ đáp ứng nhu cầu tiếp cận mở mà còn phục vụ mục đích giáo dục. Riêng với hợp phần Địa lý/Lịch sử/Giáo dục địa phương thông qua 26 di sản UNESCO tại Việt Nam, gần 100 di tích cả nước và tại Quảng Trị có nhiều di tích lịch sử văn hoá (562 di sản văn hóa vật thể và 342 di sản văn hóa phi vật thể) trong đó có 4 cụm di tích đặc biệt cấp quốc gia, 20 di tích lịch sử cấp quốc gia và 10 bảo vật Quốc gia, giáo viên có thể sử dụng, bổ sung các bài học được chuẩn bị giúp tăng cường thêm hiểu biết cũng như có đánh giá về các di sản văn hoá, tạo ra sự kết nối giữa các môn: toán, địa lý, lịch sử và các môn khoa học xã hội. Học sinh sẽ có được những hiểu biết mới về lịch sử, văn hoá thông qua thông tin ngữ cảnh, tương tác 3D. Người dùng có thể ghé thăm các di sản văn hoá thuận lợi, dễ dàng từ cùng một nguồn duy nhất của hệ thống. 
+
+2. Thư viện bài giảng số (Digital Teaching Library)
+Giáo án (Lesson Plans)
+Theo cấp học (Tiểu học, THCS, THPT)
+Theo môn học (Toán, Ngữ văn, Lịch sử, Địa lý, Vật lý, Hóa học, Sinh học,...)
+E-learning
+Khóa học trực tuyến (theo lớp, theo môn học)
+Bài tập thực hành
+Video bài giảng
+Theo giáo viên hoặc môn học
+Nội dung video hỗ trợ kiến thức trọng tâm
+
+3. Công cụ học tập (Learning Tools)
+Mô hình 3D hỗ trợ học tập (các môn học)
+THPT
+Môn hóa học: https://thietbidayhocso.edu.vn/3dhoahocthpt/
+Môn sinh học: https://thietbidayhocso.edu.vn/3dsinhhocthpt/
+THCS – KHTN  cung cấp một số Video
+Vật lý (ví dụ: mô hình lực, động năng, từ trường)
+Hóa học (ví dụ: mô hình phân tử, phản ứng hóa học)
+Sinh học (ví dụ: cấu trúc tế bào, ADN)
+
+
+https://drive.google.com/drive/folders/1JPxb8FhssMHH1X4TCSbRZueHyWCSi22D?usp=drive_link
+
+
+Ứng dụng Hi-Tech
+Ngân hàng di sản văn hóa: 
+Di sản văn hóa  www.nganhangso.dsanvanhoa.vn
+Di sản văn hóa phục vụ GDĐP
+Di tích lịch sử văn hóa danh lam thắng cảnh tỉnh Quảng Trị
+Tour Di sản Quảng Trị
+Danh lam thắng cảnh Quảng Trị
+20 Di tích cấp quốc gia
+Lễ hội văn hóa Quảng Trị
+10 bảo vật quốc gia tại Quảng Trị
+
+Media (di sản văn hóa,…): Các kho videoclip 
+- Đất và Người Quảng Trị - QRTV
++ Về Hiền Lương: https://youtu.be/9YyPqTiB9vg?si=Dt6pg7vuTq535zqm
++ Đất này: Ái Tử https://youtu.be/CxPFDVV3UpY?si=ajA2C5aidT8by84Q
+- Tóm tắt lịch sử EZSU 
++ Trận Thành Cổ Quảng Trị: https://youtu.be/RH7i8Fd__h4?si=oZLAOhHM1InzE1p-
++ Thành Cổ Quảng Trị :Những câu chuyển gửi tới mai sau: https://youtu.be/fQeX76mZf1M?si=LHNGW3IYhuhytKNW
+
+
+Hình ảnh/Video 3D: 
+Hình ảnh: Di tích lịch sử văn hóa 
+Video: Quảng Trị các điểm đến 
+Tham quan VR 
+Thành Cổ Quảng Trị (digitrans.vn)
+Video clip VR-360 
+Tài liệu tham khảo
+Sách giáo khoa số:
+SGK môn học GD ĐP (lớp 6.7.8.9)
+SGK môn học Toán 
+Bài tập và đề thi mẫu
+4. Chatbot AI hỗ trợ học tập (AI Chatbot)
+Hỗ trợ học sinh giải đáp câu hỏi
+Gợi ý tài liệu và bài giảng liên quan
+Tương tác thời gian thực giữa học sinh và hệ thống
+Trước mắt hỗ trợ qua cổng Copilot https://copilot.microsoft.com/
+(Ghi chú: Tài khoản đã có và sẽ tạo knowledge basic)
+5. Bản đồ và dữ liệu lịch sử - địa lý (Historical & Geographical Data)
+Bản đồ địa phương 
+Bản đồ lịch sử Việt Nam và các địa phương
+Atlas bản đồ Việt Nam https://www.flipsnack.com/atlatonlinefpt/atlat-a-l-vi-t-nam-online-fpt-school.html
+Bản đồ vùng miền https://meeymap.com/tin-tuc/ban-do-viet-nam-ban-do-cac-tinh-viet-nam-vector-3d
+Thông tin chi tiết về các khu vực địa lý, văn hóa, con người
+Hành chính Quảng Trị https://www.arcgis.com/apps/mapviewer/index.html?webmap=89f4299b1579440b99b3b0626f5f8fd7
+Danh nhân lịch sử Quảng Trị 
+Dữ liệu lịch sử - địa lý
+Thông tin, sự kiện lịch sử nổi bật https://arcg.is/1CDz4j
+Quảng Trị từ nguồn cội – 1930 https://arcg.is/rH8Hi0
+Quảng Trị từ 1930-1945 và Tổng khởi nghĩa https://arcg.is/1mPOLu
+Quảng Trị từ 1945 -1954 https://arcg.is/qqu14
+Quảng Trị từ 1945 – 1975 https://arcg.is/1uu4De
+Sau giải phóng https://arcg.is/qqu14
+Địa lý tự nhiên và nhân văn của từng vùng
+Quảng Trị mảnh đất/con người: https://arcg.is/1TW15K
+
+II. Mình sẽ tư vấn giúp bạn thêm về các nội dung
+1. Văn phòng: 
+- Tìn văn bản pháp luật
+- Chuyển đổi định dạng văn bản
+- Các công cụ để AI để hỗ trộ văn phòng
+
+
+ PRO SERVICES
+ Video
+VIGGLE
+Viggle AI là một nền tảng sáng tạo được hỗ trợ bởi AI biến hình ảnh tĩnh thành các hoạt hình video sống động, có ...
+Freemium
+ PRO SERVICES
+ Giọng nói
+ELEVENLABS
+ElevenLabs là một công ty nghiên cứu và triển khai âm thanh AI cung cấp khả năng chuyển văn bản thành giọng nói, sao chép gi ...
+
+ PRO SERVICES
+ Giáo dục
+QUIZLET
+Quizlet là một nền tảng học tập kỹ thuật số cung cấp thẻ flash, bài kiểm tra thực hành và các công cụ học tập khá ...
+Freemium
+ PRO SERVICES
+ Hình ảnh
+YODAYO
+Yodayo là một nền tảng sáng tạo được hỗ trợ bởi AI dành cho những người hâm mộ anime để tạo ra nghệ thuật, trò ...
+Freemium
+ PRO SERVICES
+ Hình ảnh
+ADOBE FIREFLY
+Adobe Firefly là một gia đình các mô hình AI sinh tạo cho phép người dùng tạo, chỉnh sửa và nâng cao hình ảnh, vector và th ...
+Freemium
+ PRO SERVICES
+ Code và IT
+OPERA
+Opera là một trình duyệt web sáng tạo tích hợp các khả năng AI, các tính năng bảo mật và các tùy chọn tùy chỉnh để n ...
+Freemium
+ PRO SERVICES
+ Giọng nói
+WHISPER AI
+Whisper là một hệ thống nhận dạng giọng nói tự động mã nguồn mở từ OpenAI có độ chính xác và độ mạnh mẽ gần ...
+Free Trial
+ PRO SERVICES
+ Chatbot
+CRUSHON.AI
+CrushOn.AI là một nền tảng được hỗ trợ bởi AI cung cấp các chatbot nhân vật NSFW không bị kiểm duyệt cho người dùng ...
+
+PRO SERVICES
+ Marketing
+IMAGINE WITH META AI
+Imagine với Meta AI là một công cụ tạo hình ảnh miễn phí được hỗ trợ bởi AI, tạo ra hình ảnh độ phân giải cao t� ...
+
+ PRO SERVICES
+ Thiết kế nghệ thuật
+MICROSOFT DESIGNER
+Microsoft Designer là một ứng dụng thiết kế đồ họa được hỗ trợ bởi AI giúp người dùng tạo ra các thiết kế chất ...
+Free
+ PRO SERVICES
+ Marketing
+SALESFORCE EINSTEIN
+Salesforce Einstein là một nền tảng trí tuệ nhân tạo tích hợp mang lại khả năng AI cho các sản phẩm CRM của Salesforce, cu ...
+
+ PRO SERVICES
+ Video
+GEN-3 ALPHA
+Gen-3 Alpha là mô hình AI mới nhất và tiên tiến nhất của Runway cho việc tạo video có độ trung thực cao, nhanh chóng và có ...
+Freemium
+ PRO SERVICES
+ Chatbot
+OTTER.AI
+Otter.ai là một trợ lý cuộc họp được hỗ trợ bởi AI cung cấp chuyển đổi theo thời gian thực, ghi chú tự động, tóm ...
+Freemium
+ PRO SERVICES
+ Hình ảnh
+MIDJOURNEY
+Midjourney là một dịch vụ AI tạo sinh tạo ra những hình ảnh tuyệt đẹp từ các yêu cầu văn bản bằng cách sử dụng c� ...
+PRO SERVICES
+ Hình ảnh
+KREA AI
+Krea AI là một công cụ thiết kế mạnh mẽ dựa trên AI cho phép tạo và tùy chỉnh hình ảnh và video chất lượng cao theo t ...
+ PRO SERVICES
+ Hình ảnh
+123RF
+123RF là một nền tảng cung cấp hình ảnh, ảnh chụp, vectơ và video miễn phí bản quyền cho nhiều nhu cầu thiết kế. ...
+
+ PRO SERVICES
+ Hình ảnh
+PHOTOROOM
+PhotoRoom là một ứng dụng chỉnh sửa ảnh được hỗ trợ bởi AI cho phép người dùng dễ dàng loại bỏ nền, chỉnh sửa ...
+ Chatbot
+JANITOR AI
+Janitor AI là một nền tảng chatbot được hỗ trợ bởi AI cho phép người dùng tạo, tùy chỉnh và tương tác với các nhân ...
+
+PRO SERVICES
+ Chatbot
+PI
+Pi là một chatbot AI cá nhân được thiết kế để trở thành một người bạn hỗ trợ, thông minh và luôn có sẵn cho cuộc ...
+Free
+ PRO SERVICES
+ Chatbot
+CHATBOND – AI CHATBOT BUILDER
+Chatbond là một công cụ xây dựng chatbot AI mạnh mẽ cho phép các doanh nghiệp tạo ra các chatbot dựa trên GPT để phản hồ ...
+
+ PRO SERVICES
+ Video
+VIGGLE
+Viggle AI là một nền tảng sáng tạo được hỗ trợ bởi AI biến hình ảnh tĩnh thành các hoạt hình video sống động, có ...
+Freemium
+ PRO SERVICES
+ Giọng nói
+ELEVENLABS
+ElevenLabs là một công ty nghiên cứu và triển khai âm thanh AI cung cấp khả năng chuyển văn bản thành giọng nói, sao chép gi ...
+
+ PRO SERVICES
+ Giáo dục
+QUIZLET
+Quizlet là một nền tảng học tập kỹ thuật số cung cấp thẻ flash, bài kiểm tra thực hành và các công cụ học tập khá ...
+ PRO SERVICES
+ Hình ảnh
+YODAYO
+Yodayo là một nền tảng sáng tạo được hỗ trợ bởi AI dành cho những người hâm mộ anime để tạo ra nghệ thuật, trò ...
+Freemium
+ PRO SERVICES
+ Hình ảnh
+ADOBE FIREFLY
+Adobe Firefly là một gia đình các mô hình AI sinh tạo cho phép người dùng tạo, chỉnh sửa và nâng cao hình ảnh, vector và th ...
+Freemium
+ PRO SERVICES
+ Code và IT
+OPERA
+Opera là một trình duyệt web sáng tạo tích hợp các khả năng AI, các tính năng bảo mật và các tùy chọn tùy chỉnh để n ...
+Freemium
+ PRO SERVICES
+ Giọng nói
+WHISPER AI
+Whisper là một hệ thống nhận dạng giọng nói tự động mã nguồn mở từ OpenAI có độ chính xác và độ mạnh mẽ gần ...
+Free Trial
+ PRO SERVICES
+ Chatbot
+CRUSHON.AI
+CrushOn.AI là một nền tảng được hỗ trợ bởi AI cung cấp các chatbot nhân vật NSFW không bị kiểm duyệt cho người dùng ...
+
+KHÁM PHÁ CÁC CÔNG CỤ AI
+Thỏa sức khám phá các giải pháp công nghệ tiên tiến giúp bạn tối ưu hóa công việc và sáng tạo, từ trí tuệ nhân tạo đến học máy và tự động hóa.
+ Hỗ trợ cuộc sống / Kin...
+COVERLER
+Coverler là một công cụ tạo thư xin việc được hỗ trợ bởi AI, tạo ra các bức thư xin việc độc đáo, cá nhân hóa tro ...
+Paid
+ 
+ Giọng nói
+LANDR: CREATIVE TOOLS FOR MUSICIANS
+LANDR là một nền tảng sáng tạo sử dụng AI cho nhạc sĩ, cung cấp các công cụ cho mastering, phân phối, hợp tác, mẫu, plu ...
+Paid
+
+ Năng suất công việc / V�...
+SCREENAPP
+ScreenApp là một nền tảng trực tuyến được hỗ trợ bởi AI cho phép người dùng ghi lại, phiên âm, tóm tắt và phân tíc ...
+--
+ 
+ Chatbot / Code và IT / Khác ...
+INWORLD
+Inworld là một động cơ AI hàng đầu cho trò chơi cung cấp trải nghiệm thời gian thực với các NPC động, cốt truyện thí ...
+Free Trial
+
+ Khác / Kinh tế
+KORUS
+Korus là một nền tảng metaverse âm nhạc kết hợp blockchain, AI, trò chơi và sản xuất âm nhạc để trao quyền cho nhà sáng ...
+--
+ 
+ Năng suất công việc
+NUMEROUS.AI
+Numerous.ai là một plugin bảng tính sử dụng AI tích hợp ChatGPT vào Google Sheets và Excel, cho phép người dùng tự động hóa ...
+--
+
+ Marketing / Văn bản và So�...
+TYPLI.AI – AI WRITER & SEO WRITING ASSISTANT
+Typli.ai là một trợ lý viết được hỗ trợ bởi AI và công cụ SEO tạo ra nội dung chất lượng cao, độc đáo và tối ư ...
+Paid
+
+ Hình ảnh / Khác / Thiết ...
+NUDIFY BY FUNFUN.AI
+Nudify bởi FunFun.ai là một công cụ AI tiên tiến dành cho việc tạo ra nghệ thuật khỏa thân thực tế và sáng tạo. ...
+--
+
+ Marketing / Năng suất công...
+LAYERPATH
+Layerpath là một nền tảng được hỗ trợ bởi AI cho phép người dùng tạo ra các bản demo sản phẩm, chuyến thăm quan, hư ...
+--
+ 
+ Hình ảnh / Thiết kế ngh...
+DREAMUP BY DEVIANTART
+DreamUp là công cụ tạo hình ảnh bằng AI của DeviantArt cho phép người dùng tạo nghệ thuật từ các gợi ý văn bản trong ...
+Freemium
+ 
+ Marketing
+CRAYO
+Crayo là một công cụ AI hỗ trợ tạo các clip TikTok lan truyền nhanh chóng trong vài giây, cung cấp một loạt các tính năng c ...
+--
+
+ Kinh tế
+MOAIJOBS
+MoAIJobs là một bảng việc làm chuyên biệt kết nối người tìm việc với các cơ hội trong các công ty AI tiên tiến trên c ...
+Paid
+ 
+ Khác / Năng suất công vi�...
+FIREFLIES.AI
+Fireflies.ai là một trợ lý cuộc họp được hỗ trợ bởi AI tự động ghi âm, chuyển đổi, tóm tắt và phân tích các cu� ...
+Free Trial
+ 
+ Hình ảnh / Thiết kế ngh...
+PIXLR
+Pixlr là một nền tảng chỉnh sửa ảnh và thiết kế đồ họa trực tuyến đa năng cung cấp các công cụ, bộ lọc và hi� ...
+Free Trial
+
+ Văn bản và Soạn thảo /...
+SSEMBLE YOUTUBE SHORTS MAKER
+Ssemble YouTube Shorts Maker là một công cụ sử dụng AI tự động chuyển đổi các video YouTube dài thành nội dung ngắn hấp d ...
+Free
+
+ Hình ảnh / Khác / Thiết ...
+RUNDIFFUSION
+RunDiffusion là một nền tảng đám mây được quản lý hoàn toàn, cung cấp quyền truy cập dễ dàng vào các công cụ tạo h� ...
+Free Trial
+
+ Chatbot / Hình ảnh
+DREAMY.AI
+Dreamy.ai là một nền tảng cho phép người dùng tạo ra những người bạn gái AI ảo cá nhân hóa với ngoại hình, tính cách ...
+--
+ 
+ Năng suất công việc / V�...
+FLOWGPT
+FlowGPT là một nền tảng dựa trên cộng đồng để chia sẻ, khám phá và tạo ra các nhắc nhở và chatbot AI, với một thư ...
+Freemium
+ Chi tiết
+ Giọng nói / Năng suất c�...
+AI LIFE
+HUAWEI AI Life là một ứng dụng quản lý thiết bị thông minh thống nhất cho phép người dùng điều khiển và tùy chỉnh cá ...
+Freemium
+
+ Marketing
+BASEDASH
+Basedash là một giao diện được tạo ra bởi AI cho phép các nhóm hình dung, chỉnh sửa và khám phá dữ liệu cơ sở dữ li� ...
+Ứng dụng AI Art để giúp hình ảnh sản phẩm lan tỏa cảm hứng
+
+Claude giúp bạn tối ưu hơn sau lần cập nhật gần nhất.
+
+Tổng Hợp Tất Cả Các Công Cụ AI Hữu Ích Trong Mọi Hoạt Động
+
+10 Công Cụ AI “Không Tưởng” Giúp Bạn Xây Kênh Triệu Views
+
+Bảng Xếp Hạng Các Công Cụ AI Tạo Hình Ảnh và Video Nổi Bật 2024 – 2025
+Làm Thế Nào Để Sử Dụng AI Tiết Kiệm và Nâng Cao Trình Độ Cá Nhân?
+•	3D (22)
+•	AI phát hiện AI (67)
+•	Chatbot (312)
+•	Code và IT (288)
+•	Giáo dục (169)
+•	Giọng nói (182)
+•	Hình ảnh (393)
+•	Hỗ trợ cuộc sống (109)
+•	Khác (437)
+•	Kinh tế (170)
+•	Marketing (596)
+•	Năng suất công việc (316)
+•	Prompts (25)
+•	Thiết kế nghệ thuật (179)
+•	Văn bản và Soạn thảo (495)
+•	Video (184)
+ 
+2. Tạo hình ảnh, video, biên tập
+- Công cụ CANVA, CAPCUT,...
+- OmniHuman-1
+
+3. Mail: 
+- Trả lời, biên tập mail
+- Quản lý mail
+
+4. Thư viện sách
+- Đọc sách trên các  trang thông tin 
+- WEBSITE đọc sách
+
+https://nhasachmienphi.com/ (Web này thân thiện với Kindle nhất)
+Thư viện sách cá nhân của jelly-alibi (build cực kì công phu và nếu bạn có điều kiện hãy gửi bạn ấy 1 tách cà phê)
+https://sachmoi.net/
+https://www.dtv-ebook.com
+https://www.thuvienpdf.com/
+isach.info
+epub.vn
+http://www.taisachhay.com
+http://www.loyalbooks.com/  : Với hơn 7000 ebook có cả audio để các bạn nghe, đủ các file trên điện thoại.
+http://downloadsachfree.com 
+http://tve-4u.org/  : Forums của cộng động làm sách
+http://www.ebookbkmt.com/  : Download tài liệu về kỹ thuật miễn phí.
+http://avaxhome.ws : Là một trong những trang download sách miễn phí rất lớn.
+http://www.taisachhay.com : Xem, đọc, tải sách hay, sách điện tử miễn phí về cho điện thoại, máy tính, máy tính bảng.
+http://www.free-ebooks.net/ : Tại web này bạn có thể nhận được các thể loại sách về điện tử, giải trí, viễn tưởng, giáo dục, lãng mạn, phi tiểu thuyết, truyện ngắn… và nhiều hơn thế nữa.
+http://comicsdownload.org/ : Dành cho các bạn thích đọc truyện tranh.
+http://www.englishtips.org/  : Có rất nhiều tài liệu cho việc học tiếng anh.
+http://trangtaiebookfree.blogspot.com/  :  Hãy vào đây để tải cho mình những quyển sách hay được tuyển chọn kỹ lưỡng.
+https://webtietkiem.com/free/  : Trang web này cũng có rất nhiều sách hay, bạn có thể tải sách chỉ với 1 click.
+www.Beenvn.com :  Trang download sách free toàn link Mediafire.
+http://www.ebookandyou.com/  : Tiểu thuyết nước ngoài và trong nước rất phong phú.
+
+- Các thư viện số

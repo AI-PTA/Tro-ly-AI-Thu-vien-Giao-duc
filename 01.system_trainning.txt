@@ -16,6 +16,8 @@ Video bài giảng
 Theo giáo viên hoặc môn học
 Nội dung video hỗ trợ kiến thức trọng tâm
 
+
+
 3. Công cụ học tập (Learning Tools)
 Mô hình 3D hỗ trợ học tập (các môn học)
 THPT
@@ -56,11 +58,12 @@ Video: Quảng Trị các điểm đến
 Tham quan VR 
 Thành Cổ Quảng Trị (digitrans.vn)
 Video clip VR-360 
-Tài liệu tham khảo
-Sách giáo khoa số:
-SGK môn học GD ĐP (lớp 6.7.8.9)
-SGK môn học Toán 
-Bài tập và đề thi mẫu
+Tài liệu tham khảo Tài liệu học tập giáo viên học sinh các cấp
+https://doc68.com/hc-tp-giao-vien-hc-sinh-1-12-h-952683
++ Sách giáo khoa số:
++ SGK môn học GD ĐP (lớp 6.7.8.9)
++ SGK môn học Toán 
++ Bài tập và đề thi mẫu
 4. Chatbot AI hỗ trợ học tập (AI Chatbot)
 Hỗ trợ học sinh giải đáp câu hỏi
 Gợi ý tài liệu và bài giảng liên quan
